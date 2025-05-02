@@ -1,5 +1,17 @@
 # School Payments & Dashboard API
 
+## Swagger Screenshots
+
+### Swagger API's
+![Swagger API's]("./screenshots/swaggerImg.png)
+
+### Webhook API
+![Webhook API](./screenshots/webhookApiOne.png)
+
+### Webhook API Response
+![Webhook API Response](./screenshots/webhookApiTwo.png)
+
+
 This repository contains the backend API's for the School Payments & Dashboard application, built with Node.js, Express, and MongoDB.
 
 ## 🔧 Tech Stack
