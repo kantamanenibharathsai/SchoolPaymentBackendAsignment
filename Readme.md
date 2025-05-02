@@ -3,7 +3,7 @@
 ## Swagger Screenshots
 
 ### Swagger API's
-![Swagger API's]("./screenshots/swaggerImg.png)
+![Swagger API's](./screenshots/swaggerImg.png)
 
 ### Webhook API
 ![Webhook API](./screenshots/webhookApiOne.png)
